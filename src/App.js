@@ -17,6 +17,14 @@ function App() {
         >
           Ins0mnia Discord
         </a>
+         <a
+          className="App-link"
+          href="soon"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Download
+        </a>
       </header>
     </div>
   );
