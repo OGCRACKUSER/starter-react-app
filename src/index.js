@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@OGCRACKUSER 
-OGCRACKUSER
-/
-starter-react-app
-Public
-forked from cyclic-software/starter-react-app
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-starter-react-app/src/pages/index.js /
-@OGCRACKUSER
-OGCRACKUSER Add files via upload
-Latest commit f497615 7 minutes ago
- History
- 1 contributor
-430 lines (430 sloc)  12.8 KB
 
 import React from "react";
 import theme from "theme";
@@ -459,18 +429,3 @@ export default (() => {
 		</RawHtml>
 	</Theme>;
 });
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-starter-react-app/index.js at Dev · OGCRACKUSER/starter-react-app
